@@ -4,7 +4,7 @@ usage: Not needed
 location: Eugenio's home
 owner: Lyubomir
 bought_since: Beginning
-bought_from: -
+bought_from: null
 status: To be returned
 image: main.jpg
 ---

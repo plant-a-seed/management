@@ -3,8 +3,8 @@ title: Raspberry Pi 1
 usage: Not needed
 location: Eugenio's home
 owner: Lyubomir
-bought_since: Beginning
-bought_from: null
+boughtSince: Beginning
+boughtSource: null
 status: To be returned
 image: main.jpg
 ---

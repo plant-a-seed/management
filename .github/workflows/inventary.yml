@@ -1,0 +1,25 @@
+name: inventary
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+            ref: main
+      
+      - name: Inject dree
+        uses: 'plant-a-seed/ga-inventary@main'
+        with:
+          inventoryPath: './inventary'
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: inject inventary (automated commit)"
+          branch: main

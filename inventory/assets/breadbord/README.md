@@ -1,15 +1,16 @@
 ---
-title: Lipo Battery
+title: Breadbord
 model: null
-usage: Not needed
+usage: null
 location: Eugenio's home
-owner: To be defined
+owner: null
 boughtSince: Beginning
 boughtSource: null
 status: null
-image: main.jpg
+quantity: 3
+image: null
 ---
 
-# Lipo Battery
+# Breadbord
 
-Prova
+TODO

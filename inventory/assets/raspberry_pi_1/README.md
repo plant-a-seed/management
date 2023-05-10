@@ -1,5 +1,6 @@
 ---
 title: Raspberry Pi 1
+model: null
 usage: Not needed
 location: Eugenio's home
 owner: Lyubomir

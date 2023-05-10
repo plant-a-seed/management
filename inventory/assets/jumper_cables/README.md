@@ -1,15 +1,15 @@
 ---
-title: Lipo Battery
+title: Jumper Cables
 model: null
-usage: Not needed
+usage: null
 location: Eugenio's home
-owner: To be defined
+owner: null
 boughtSince: Beginning
 boughtSource: null
 status: null
-image: main.jpg
+image: null
 ---
 
-# Lipo Battery
+# Jumper Cables
 
-Prova
+TODO
